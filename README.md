@@ -1,4 +1,4 @@
-# 🐱 Cat Breed Image Classification
+# 🐱 Cat-Breed-Image-Classifier
 
 A deep learning image classification model that identifies the breed of a cat from a photo. The model was trained using **Google Teachable Machine** and exported in **Keras (TensorFlow)** format for use in Python.
 
