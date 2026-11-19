@@ -1,0 +1,4 @@
+0 American Shorthair
+1 Persian Cat
+2 Abyssinian
+3 Siamese Cat
