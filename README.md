@@ -42,10 +42,12 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-3. The output will look like this:
+3. ## 📸 Example Output <img width="180" height="304" alt="image" src="https://github.com/user-attachments/assets/98ac0cb0-683f-4c97-b718-46f2366a48c2" />
+
+
 ```
-Class: Siamese Cat
-Confidence: 0.98
+Class: Abyssinian
+Confidence: 100%
 ```
 
 ## 🛠️ Technologies Used
