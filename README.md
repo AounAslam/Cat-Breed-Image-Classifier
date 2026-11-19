@@ -26,8 +26,8 @@ The model can classify the following 4 cat breeds:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/AounAslam/cat-breed-classifier-.git
-cd cat-breed-classifier-
+git clone https://github.com/AounAslam/cat-breed-classifier.git
+cd cat-breed-classifier
 ```
 
 2. Install the required libraries:
